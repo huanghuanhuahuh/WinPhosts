@@ -1,5 +1,9 @@
 ! Title: Win P hosts
 ! Homepage: https://github.com/huanghuanhuahuh/asp_WinOptimizer_hosts
+
+# uBO
+zh.wikipedia.org###siteNotice
+
 # added by WinOptimizer (begin)
 127.0.0.1 choice.microsoft.com
 127.0.0.1 choice.microsoft.com.nsatc.net
