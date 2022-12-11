@@ -2,12 +2,6 @@
 ! Homepage: https://raw.githubusercontent.com/huanghuanhuahuh/hRules/main/HostsAndRules
 
 # uBO
-zh.wikipedia.org###siteNotice
-outlook.live.com##.LBktY > .GssDD
-copymanga.site##.header-jum
-copymanga.site##.indexAds
-copymanga.site##.col-2 > div:nth-of-type(2)
-
 
 
 
